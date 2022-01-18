@@ -113,7 +113,7 @@ body{
   padding-right: 10px;
   pointer-events: none;
   background: transparent;
-  visibility: visible;
+  
 }
 .container input[type="button"]{
   height: 65px;
